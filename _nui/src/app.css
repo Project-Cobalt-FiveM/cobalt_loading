@@ -1,0 +1,32 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/onest';
+
+@theme {
+  --color-*: initial;
+  --color-background: #0a0a0a;
+  --color-foreground: #fafafa;
+  --color-popover: #171717;
+  --color-muted: #1c1c1c;
+  --color-muted-foreground: #a3a3a3;
+  --color-secondary: #262626;
+  --color-border: #262626;
+  --color-cobalt: #5078d7;
+  --color-neutral-500: #737373;
+  --color-neutral-600: #525252;
+  --color-neutral-700: #404040;
+
+  --font-sans: 'Onest Variable', system-ui, sans-serif;
+
+  --ease-cobalt: cubic-bezier(0.2, 0, 0, 1);
+}
+
+@layer base {
+  html {
+    font-size: clamp(12px, 1.48vh, 22px);
+  }
+
+  body {
+    margin: 0;
+    background: var(--color-background);
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "loading": {
+    "tagline": "Hang tight. Your city is loading in.",
+    "progress": "Loading progress"
+  },
+  "tips": {
+    "inventory": "opens your inventory once you spawn",
+    "phone": "opens the phone",
+    "lock": "locks your car. Thieves check door handles."
+  },
+  "stage": {
+    "connect": "Connect",
+    "download": "Download",
+    "map": "Load map",
+    "spawn": "Spawn"
+  },
+  "status": {
+    "connect": { "task": "Connecting", "detail": "Starting the game" },
+    "download": { "task": "Loading resources", "detail": "Preparing files" },
+    "map": { "task": "Loading map", "detail": "Streaming the city" },
+    "spawn": { "task": "Spawning", "detail": "Placing your character" },
+    "ready": { "task": "Ready", "detail": "Spawning in" },
+    "steps": "%d of %d steps",
+    "file": "Loading %s",
+    "files": "%d of %d files",
+    "map_step": "Map step %d"
+  },
+  "music": {
+    "mute": "Mute music",
+    "volume": "Music volume",
+    "muted": { "title": "Music off", "hint": "Press M to turn on", "action": "Unmute music" },
+    "blocked": { "title": "Music paused", "hint": "Click or press any key to play", "action": "Play music" }
+  }
+}

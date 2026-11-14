@@ -1,0 +1,13 @@
+Loading screen music. Both tracks are CC0 1.0 (public domain dedication):
+free to use, modify and distribute, including commercially, with no attribution required.
+Loudness-normalised to -18 LUFS for background playback.
+
+chill-lofi-r.mp3
+  "Chill Lofi R" by omfgdude
+  https://opengameart.org/content/chill-lofi-inspired
+  License: CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+
+wifi-trasherino.mp3
+  "WiFi Trasherino" by Sudocolon
+  https://opengameart.org/content/wifi-trasherino
+  License: CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
